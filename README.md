@@ -1,14 +1,14 @@
 # 🎲 Tic-Tac-Toe App
 - **Discipline:** Mobile Device Programming
-- **Teacher:** (Teacher's Name)
-- **Student:** (Your Name)
-- **Final Date:** 10/07/2025
+- **Teacher:** Junio Moreira
+- **Student:** João Augusto Marciano Silva
+- **Final Date:** 26/09/2025
 
 ## Application Operation
 
-| Initial Screen (Requesting Names) | Main Game Screen |
-|:---:|:---:|
-| <img height="500" alt="view_1" src="https://github.com/user-attachments/assets/b8337d1a-4299-4c12-a8c6-a6e50e50b16a" /> | <img height="500" alt="view_2" src="https://github.com/user-attachments/assets/b6a5554f-12c8-47bc-9366-26e54508c9f0" /> |
+| Initial Screen (Requesting Names) | In Game | Player 1 Won | Player 2 Won | Draw |
+|:---:|:---:|:---:|:---:|:---:|
+| <img height="500" alt="image" src="https://github.com/user-attachments/assets/ee249033-e22c-473b-af6d-55bc0ab404a0" /> | <img height="500" alt="image" src="https://github.com/user-attachments/assets/a0d5db81-99cc-45d8-8125-a39bbc617017" /> | <img height="500" alt="image" src="https://github.com/user-attachments/assets/a737c0d8-e970-4fc4-8210-639d530a045c" /> | <img height="500" alt="image" src="https://github.com/user-attachments/assets/a8bf50d3-1cb5-4934-99e0-110017ff56fb" /> | <img height="500" alt="image" src="https://github.com/user-attachments/assets/0ab01fd7-a4a8-4561-9caa-271b0f53693e" /> |
 
 - The application starts with an alert requesting the names of **Player 1 (X)** and **Player 2 (O)**.
 - It offers classic Tic-Tac-Toe gameplay on a 3x3 board.
