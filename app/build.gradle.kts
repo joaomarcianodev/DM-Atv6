@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.jams.jogodavelha"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.jams.jogodavelha"
@@ -32,6 +32,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = "11"
+    }
+    buildFeatures {
+        viewBinding = true
     }
 }
 
